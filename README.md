@@ -1,6 +1,9 @@
 ## Patrick Queiroz, estudante de conteúdo de programação e tecnologia!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queirozPatrick&show_icons=true&theme=radical)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPatrick&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/queirozPatrick">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozPatrick&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPatrick&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 
 <div align="center"> 
