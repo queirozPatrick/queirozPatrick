@@ -14,3 +14,4 @@
  
  ### Estudo no momento:
   <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+.
