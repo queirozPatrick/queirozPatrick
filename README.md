@@ -2,7 +2,7 @@
 
 <p align="center">
   Sou um desenvolvedor apaixonado por <strong>automação</strong>, <strong>APIs</strong>, 
-  <strong>n8n</strong> e <strong>agentes de IA</strong>.  
+  <strong>n8n</strong> e <strong>agentes de IA</strong> com <strong>Fastapi</strong>.  
   Transformo problemas complexos em soluções simples, eficientes e escaláveis. 🚀
 </p>
 
